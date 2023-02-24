@@ -5,7 +5,7 @@ back=$1
 export DISPLAY=:0
 export XDG_RUNTIME_DIR=/run/user/$(id -u)
 
-./notify-send.sh/notify-send.sh \
+/opt/pomodoric/notify-send.sh/notify-send.sh \
     "Let's rock" \
     "You have until $back" \
     -u critical \
