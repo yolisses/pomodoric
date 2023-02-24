@@ -33,13 +33,13 @@
      fit-margin-bottom="0"
      inkscape:zoom="0.48377363"
      inkscape:cx="209.80887"
-     inkscape:cy="47.542898"
+     inkscape:cy="47.542897"
      inkscape:window-width="1366"
      inkscape:window-height="731"
      inkscape:window-x="0"
-     inkscape:window-y="768"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3291"
+     inkscape:current-layer="g4718"
      units="px"
      width="512px" />
   <defs
@@ -163,15 +163,15 @@
            d="m 65.167767,116.57566 a 5.418221,2.3986223 0 0 1 -2.709111,2.07727 5.418221,2.3986223 0 0 1 -5.418221,0 5.418221,2.3986223 0 0 1 -2.70911,-2.07727" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:3.12329px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           x="58.710178"
-           y="117.31011"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.62912px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.148213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="58.22649"
+           y="117.7626"
            id="text12814"><tspan
              sodipodi:role="line"
              id="tspan12812"
-             style="fill:#ffffff;stroke:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             x="58.710178"
-             y="117.31011">P</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.62912px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.148213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             x="58.22649"
+             y="117.7626">P</tspan></text>
       </g>
     </g>
   </g>
