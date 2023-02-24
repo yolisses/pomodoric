@@ -1,5 +1,5 @@
-duration=$1
-back=$2
+duration=25
+back=$1
 
 # turn on graphical interface access
 export DISPLAY=:0
@@ -7,7 +7,7 @@ export XDG_RUNTIME_DIR=/run/user/$(id -u)
 
 ./notify-send.sh/notify-send.sh \
     "Let's rock" \
-    "You have $duration min, until $back" \
+    "You have until $back" \
     -u critical \
     -a Pomodoric \
     -i /opt/pomodoric/icon.svg \
